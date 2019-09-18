@@ -1,0 +1,2 @@
+class Breed
+end
