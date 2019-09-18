@@ -1,3 +1,3 @@
-class Breed
+class Person
  
 end
